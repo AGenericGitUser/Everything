@@ -4,4 +4,4 @@ To setup a dev environment ensure you have virtualenv installed
 
 then run the following
 
-```virtualenv .env && source .env/bin/activate && pip install -r requirements.txt```
+```virtualenv venv && source venv/bin/activate && pip install -r requirements.txt```
